@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenny Wilson (@zepam)
 - 👀 I’m interested in software engineering with arts organizations and other non-profits. I also love the weirdness of the english language.
-- 🌱 I’m currently studying with the Graduate Certificate in Software Design and Development at the University of Washington. 
+- 🌱 I’m currently studying at the University of Washington for a Graduate Certificate in Software Design and Development. 
 - 📫 https://www.linkedin.com/in/jenwils/
 
 <!---
