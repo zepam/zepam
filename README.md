@@ -4,7 +4,7 @@
 - 📫 https://www.linkedin.com/in/jenwils/
 
 
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true))](https://github.com/zepam/github-readme-stats)
+[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true&theme=radical))](https://github.com/zepam/github-readme-stats)
 
 
 <!---
