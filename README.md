@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenny Wilson (@zepam)
-- 👀 I’m interested in software engineering with arts organizations and other non-profits. I also love the weirdness of the english language.
+- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language.
 - 🌱 I just completed the Graduate Certificate in Software Design and Development at the University of Washington. 
 - 📫 https://www.linkedin.com/in/jenwils/
 
