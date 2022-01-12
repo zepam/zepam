@@ -4,7 +4,7 @@
 - 📫 
 
 
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true&theme=radical))](https://github.com/zepam/github-readme-stats)
+[![zepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true&theme=radical))](https://github.com/zepam/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zepam&theme=dark)](https://git.io/streak-stats)
 
