@@ -1,6 +1,6 @@
 - 👋 Hi, I’m (@zepam)
-- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language.
-- 🌱 MS in Computational Linguistics at University of Washington 2022 - 2024 
+# - 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language.
+# - 🌱 MS in Computational Linguistics at University of Washington 2022 - 2024 
 - 📫 
 
 
