@@ -1,7 +1,7 @@
 - 👋 Hi, I’m (@zepam)
-<!---- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
 - 🌱 MS in Computational Linguistics at University of Washington 2022 - 2024 
 <!--- 📫 --->
+<!--- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
 
 
 [![zepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true&theme=radical&show_owner=false))](https://github.com/zepam/github-readme-stats)
