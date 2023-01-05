@@ -3,7 +3,9 @@
 <!--- 📫 --->
 <!--- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
 
+<!--
 [![zepam's Exercism stats](https://exercism-badges.vercel.app/api?username=zepam)](https://exercism.io/profiles/zepam)
+-->
 
 [![zepam's Exercism stats](https://exercism-badges.vercel.app/api?username=zepam&amp;theme=monokai)](https://exercism.io/profiles/zepam)
 
