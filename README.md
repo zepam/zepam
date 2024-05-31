@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (@zepam)
+- 👋 Hi, I’m Jen Wilson (@zepam)
 - 🌱 MS in Computational Linguistics at University of Washington 2022 - 2025 
 <!--- 📫 --->
 <!--- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
