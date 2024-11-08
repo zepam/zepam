@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jen Wilson (@zepam)
-- 🌱 MS in Computational Linguistics at University of Washington 2022 - 2025 
+- 🌱 MS in Computational Linguistics at University of Washington 2022 - 2025
+- 🌋 I also enjoy working with Earth Sciences data.
 <!--- 📫 --->
 <!--- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
 
