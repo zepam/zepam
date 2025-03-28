@@ -1,28 +1,18 @@
-- 👋 Hi, I’m Jen Wilson (@zepam)
-- 🌱 MS in Computational Linguistics at University of Washington (expected 2025)
-- A versatile computational linguist with expertise in machine learning, speech recognition, and seismic data analysis.
-- Experienced in AI-driven natural language processing and automatic speech recognition.
-- Proven leadership in technical projects, from ASR for endangered languages to AI-based seismic event classification.
-- Strong advocate for interdisciplinary applications of NLP and machine learning, with a commitment to open-source collaboration and data-driven research.
-- I also enjoy working with Earth Sciences data. 🌋 
-<!--- 📫 --->
-<!--- 👀 I’m interested in software design and engineering with arts organizations and other non-profits. I also love the weirdness of the english language. --->
+<div align="left">
+    <h2>🌟 About Me </h2>
+    <p> I'm a Master of Science graduate student in Computational Linguistics at the University of Washington. </p>
+    <p> A versatile computational linguist with expertise in AI-driven natural language processing, machine learning, speech recognition, and 🌋 seismic data analysis. </p>
 
-<!--
-[![zepam's Exercism stats](https://exercism-badges.vercel.app/api?username=zepam)](https://exercism.io/profiles/zepam)
+</div>
 
+<div align="left">
+    <h2> 📫 Connect With Me </h2>
+    <p>To connect with me, please find my professional information and contact details on LinkedIn. You can find examples of my work and interests on Github. Take a look and see what I've been up to!</p>
 
-[![zepam's Exercism stats](https://exercism-badges.vercel.app/api?username=zepam&amp;theme=monokai)](https://exercism.io/profiles/zepam)
--->
-
-
-<!-- COMMENTED OUT
-[![zepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepam&count_private=true&show_icons=true&theme=radical&show_owner=false))](https://github.com/zepam/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zepam&theme=dark)](https://git.io/streak-stats)
--->
-
-<!---
-zepam/zepam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 💞️
---->
+<a href="https://www.linkedin.com/in/jenwils/">
+<img src="https://img.shields.io/badge/JenWilson-0077B5?style=for-the-badge" alt="LinkedIn"/>
+</a>
+<a href="ttps://github.com/zepam" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&color=darkgreen" alt="GitHub"/>
+</a>
+</div>
