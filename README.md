@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/jenwils/">
 <img src="https://img.shields.io/badge/JenWilson-0077B5?style=for-the-badge" alt="LinkedIn"/>
 </a>
-<a href="ttps://github.com/zepam" target="_blank">
+<!-- <a href="ttps://github.com/zepam" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&color=darkgreen" alt="GitHub"/>
-</a>
+</a> -->
 </div>
