@@ -7,7 +7,7 @@
 
 <div align="left">
     <h2> 📫 Connect With Me </h2>
-    <p>To connect with me, please find my professional information and contact details on LinkedIn. You can find examples of my work and interests on Github. Take a look and see what I've been up to!</p>
+<!--    <p>To connect with me, please find my professional information and contact details on LinkedIn. You can find examples of my work and interests on Github. Take a look and see what I've been up to!</p> -->
 
 <a href="https://www.linkedin.com/in/jenwils/">
 <img src="https://img.shields.io/badge/JenWilson-0077B5?style=for-the-badge" alt="LinkedIn"/>
