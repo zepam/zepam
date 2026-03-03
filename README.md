@@ -1,7 +1,7 @@
 <div align="left">
     <h2>🌟 About Me </h2>
     <p> I'm a Master of Science graduate student in Computational Linguistics at the University of Washington. </p>
-    <p> A versatile computational linguist with expertise in AI-driven natural language processing, machine learning, speech recognition, and 🌋 seismic data analysis. </p>
+    <p> A versatile computational linguist with expertise in AI-driven natural language processing, machine learning, machine translation, and speech recognition. </p>
 
 </div>
 
